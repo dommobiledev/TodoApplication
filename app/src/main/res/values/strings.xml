@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Todo Application</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="todo_list">Todo list!</string>
+    <string name="textViewTodoDetail">Not sure yet.</string>
+    <string name="detail">Details</string>
+    <string name="back_button_pressed">Back button pressed?</string>
+    <string name="request_code_mismatch">requestCode in intent does not match the parent requestCode</string>
+    <string name="todo_complete">Completed?</string>
+
+    <string-array name="todo">
+        <item>Presentation on Neural Networks</item>
+        <item>Presentation on Android</item>
+        <item>Report on Neural Networks</item>
+        <item>Report on Networking</item>
+    </string-array>
+    <string-array name="todo_detail">
+        <item>Wednesday, 22/11</item>
+        <item>Thursday, 23/11</item>
+        <item>Sunday, 03/12</item>
+        <item>Sunday, 17/12</item>
+    </string-array>
+</resources>
